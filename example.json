@@ -1,0 +1,47 @@
+[{
+  "name": "String",
+  "profession": "String",
+  "birthday": "String",
+  "address": "String",
+  "city": "String",
+  "phoneNumber": "String",
+  "email": "String",
+  "photo": "String",
+  "bio": "String",
+  "education": [
+    {
+      "name": "String",
+      "enter": "String",
+      "finish": "String"
+    },
+    {
+      "name": "String",
+      "enter": "String",
+      "finish": "String"
+    }
+    
+  ],
+  "achievement": [
+    {
+      "name": "String",
+      "year": "String",
+      "desc": "String"
+    },
+    {
+      "name": "String",
+      "year": "String",
+      "desc": "String"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "String",
+      "link": "String"
+    },
+    {
+      "name": "String",
+      "link": "String"
+    }
+  ]
+}
+]
