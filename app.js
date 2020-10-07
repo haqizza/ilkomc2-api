@@ -25,7 +25,7 @@ app.use('/api/users/', userRouter);
 const port = 3000;
 
 //Routes
-app.get('/', (req, res) => {
+app.get('/api/', (req, res) => {
   res.sendFile(__dirname + '/views/endpoint.html');
 });
 
